@@ -1,0 +1,5 @@
+new file name:  py_mb2.txt
+Starting test, reading file  py_mb.txt   1000  times
+-----------------------
+Time elapsed:  23.59612464904785
+TIME FROM MAIN: 24

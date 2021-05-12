@@ -1,0 +1,5 @@
+this
+is a test
+for reading in a
+text file in 
+C

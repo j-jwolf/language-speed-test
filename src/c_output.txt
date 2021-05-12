@@ -1,0 +1,7 @@
+new file name: c_mb2.txt
+Starting test, reading file c_mb.txt 1000 times
+-----------------------
+Deleting destination
+Deleting fn
+Time elapsed: 6.000000
+TIME FROM MAIN: 6

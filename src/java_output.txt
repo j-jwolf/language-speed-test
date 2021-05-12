@@ -1,0 +1,6 @@
+new file name: java_mb.txt
+Starting test, reading file java_mb.txt 1000 times
+-----------------------
+
+Time elapsed: 24
+TIME FROM MAIN: 25

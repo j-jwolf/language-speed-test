@@ -1,0 +1,35 @@
+C RESULTS
+========================================
+new file name: c_mb2.txt
+Starting test, reading file c_mb.txt 2000 times
+-----------------------
+Deleting destination
+Deleting fn
+Time elapsed: 17.000000
+TIME FROM MAIN: 17
+
+C++ RESULTS
+========================================
+new file name: cpp_mb2.txt
+Starting test, reading file cpp_mb.txt 2000 times
+-----------------------
+Time elapsed: 30
+TIME FROM MAIN: 30
+
+JAVA RESULTS
+========================================
+new file name: java_mb.txt
+Starting test, reading file java_mb.txt 2000 times
+-----------------------
+
+Time elapsed: 54
+TIME FROM MAIN: 55
+
+PYTHON RESULTS
+========================================
+new file name:  py_mb2.txt
+Starting test, reading file  py_mb.txt   2000  times
+-----------------------
+Time elapsed:  54.74901342391968
+TIME FROM MAIN: 55
+
